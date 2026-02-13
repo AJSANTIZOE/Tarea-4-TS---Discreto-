@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Angela\\Desktop\\PC - PROGRAMAS\\tarea04_SistemaDiscreto\\tarea04_SistemaDiscreto.csproj",
+      "projectUniqueName": "C:\\Users\\Angela\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Tarea-4-TS---Discreto-\\tarea04_SistemaDiscreto\\tarea04_SistemaDiscreto.csproj",
       "projectName": "tarea04_SistemaDiscreto",
-      "projectPath": "C:\\Users\\Angela\\Desktop\\PC - PROGRAMAS\\tarea04_SistemaDiscreto\\tarea04_SistemaDiscreto.csproj",
+      "projectPath": "C:\\Users\\Angela\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Tarea-4-TS---Discreto-\\tarea04_SistemaDiscreto\\tarea04_SistemaDiscreto.csproj",
       "packagesPath": "C:\\Users\\Angela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Angela\\Desktop\\PC - PROGRAMAS\\tarea04_SistemaDiscreto\\obj\\",
+      "outputPath": "C:\\Users\\Angela\\OneDrive - Universidad Rafael Landivar\\Documentos\\GitHub\\Tarea-4-TS---Discreto-\\tarea04_SistemaDiscreto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
