@@ -1,0 +1,14 @@
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\bin\Debug\net9.0\tarea04_SistemaDiscreto.exe
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\bin\Debug\net9.0\tarea04_SistemaDiscreto.deps.json
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\bin\Debug\net9.0\tarea04_SistemaDiscreto.runtimeconfig.json
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\bin\Debug\net9.0\tarea04_SistemaDiscreto.dll
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\bin\Debug\net9.0\tarea04_SistemaDiscreto.pdb
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\obj\Debug\net9.0\tarea04_SistemaDiscreto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\obj\Debug\net9.0\tarea04_SistemaDiscreto.AssemblyInfoInputs.cache
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\obj\Debug\net9.0\tarea04_SistemaDiscreto.AssemblyInfo.cs
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\obj\Debug\net9.0\tarea04_SistemaDiscreto.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\obj\Debug\net9.0\tarea04_SistemaDiscreto.dll
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\obj\Debug\net9.0\refint\tarea04_SistemaDiscreto.dll
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\obj\Debug\net9.0\tarea04_SistemaDiscreto.pdb
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\obj\Debug\net9.0\tarea04_SistemaDiscreto.genruntimeconfig.cache
+C:\Users\Angela\Desktop\PC - PROGRAMAS\tarea04_SistemaDiscreto\obj\Debug\net9.0\ref\tarea04_SistemaDiscreto.dll
